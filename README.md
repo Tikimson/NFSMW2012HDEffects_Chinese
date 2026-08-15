@@ -1,3 +1,9 @@
+# 前言：尊重原创
+**Don't forget to support [the original creator](https://github.com/AeroWidescreen)**  
+**请支持原作者：[Aero_](https://github.com/AeroWidescreen)**  
+**Don't forget to support [the original project](https://github.com/AeroWidescreen/NFSMW2012HDEffects)**  
+**请支持原项目：[NFSMW2012HDEffects](https://github.com/AeroWidescreen/NFSMW2012HDEffects)**
+
 # NFSMW2012 高清特效 (HD Effects)
 
 ## 使用方法
