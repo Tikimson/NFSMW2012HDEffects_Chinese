@@ -56,12 +56,12 @@
 答：我不支持任何形式的多人联机作弊行为。加入此功能纯粹是为了提升单人模式的游戏体验。
 
 ## 致谢
-[Aero_](https://github.com/AeroWidescreen) : NFSMW2012 HD Effects（高清特效补丁）的作者。
-[ExOpts Team](https://github.com/ExOptsTeam) : 本项目基于 Extra Options 开发，没有他们的工作便不会有此项目。
-[ThirteenAG](https://github.com/ThirteenAG) : Ultimate-ASI-Loader（通用 ASI 加载器）。 
+[Aero_](https://github.com/AeroWidescreen) : NFSMW2012 HD Effects（高清特效补丁）的作者。  
+[ExOpts Team](https://github.com/ExOptsTeam) : 本项目基于 Extra Options 开发，没有他们的工作便不会有此项目。  
+[ThirteenAG](https://github.com/ThirteenAG) : Ultimate-ASI-Loader（通用 ASI 加载器）。  
 
 ## 鸣谢
-[mRally2](https://nfsmods.xyz/usermods/3237)
-[Brawltendo](https://github.com/Brawltendo)
-[BadassBaboon](https://www.youtube.com/channel/UC3e-Xp4oPzNu06hxy2242Gg)
-[Defy](https://nfsmods.xyz/user/57)
+[mRally2](https://nfsmods.xyz/usermods/3237)  
+[Brawltendo](https://github.com/Brawltendo)  
+[BadassBaboon](https://www.youtube.com/channel/UC3e-Xp4oPzNu06hxy2242Gg)  
+[Defy](https://nfsmods.xyz/user/57)  
