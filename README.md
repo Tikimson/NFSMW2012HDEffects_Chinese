@@ -1,7 +1,7 @@
 # NFSMW2012 高清特效 (HD Effects)
 
 ## 使用方法
-1. 下载并解压 [NFSMW2012HDEffects.zip](https://github.com/AeroWidescreen/NFSMW2012HDEffects/releases)。
+1. 下载并解压 [NFSMW2012HDEffects_Chinese.zip](https://github.com/Tikimson/NFSMW2012HDEffects_Chinese/releases)，或者使用未汉化的原版 [NFSMW2012HDEffects.zip](https://github.com/AeroWidescreen/NFSMW2012HDEffects/releases)。
 2. 将“scripts”文件夹和“dinput8.dll”文件移动到游戏的安装目录中。
 3. 在“NFSMW2012HDEffects.ini”文件中进行设置。
 4. 开始游戏。
