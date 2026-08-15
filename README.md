@@ -55,7 +55,7 @@
 问：为什么 WreckResistance（抗撞击/耐损）功能在多人联机模式下不起作用？  
 答：我不支持任何形式的多人联机作弊行为。加入此功能纯粹是为了提升单人模式的游戏体验。
 
-## 致谢
+## 制作人员名单
 [Aero_](https://github.com/AeroWidescreen) : NFSMW2012 HD Effects（高清特效补丁）的作者。  
 [ExOpts Team](https://github.com/ExOptsTeam) : 本项目基于 Extra Options 开发，没有他们的工作便不会有此项目。  
 [ThirteenAG](https://github.com/ThirteenAG) : Ultimate-ASI-Loader（通用 ASI 加载器）。  
